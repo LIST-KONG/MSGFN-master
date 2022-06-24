@@ -1,5 +1,0 @@
-To ensure the fairness of the results, we all use source code or public libraries for comparison experiments.
-The results can be obtained from the following documents:
-GCNII：/GCNII-master/train.py
-APPNP：/APPNP/test_pytorch.py
-SimpGCN:SimpGCN.py（import DeepRobust）
