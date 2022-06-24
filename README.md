@@ -1,6 +1,5 @@
 ##  Multi-Stage Graph Fusion Networks for Major Depressive Disorder Diagnosis
 
-Youyong Kong, Shuyi Niu, Heren Gao, Yingying Yue, Huazhong Shu, Chunming Xie, Zhijun Zhang, Yonggui Yuan
 
 ###  Model Architecture
 
