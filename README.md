@@ -1,16 +1,3 @@
-# MSGFN-master
-Source code of MSGFN framework and comparisons.
-1. Code Description
-data: raw mdd and hc data
-dsc: definitation of the dsc model
-gcn: definitation of the gcn model
-pretrained_model: saved dsc model and gcn model 
-pre_main.py: test the performance of saved models
-Run pre_main.py to test the performance of the proposed method.
-2. Requirements
-python 3.6
-tensorflow-gpu 1.12.0
-
 ##  Multi-Stage Graph Fusion Networks for Major Depressive Disorder Diagnosis
 
 Youyong Kong, Shuyi Niu, Heren Gao, Yingying Yue, Huazhong Shu, Chunming Xie, Zhijun Zhang, Yonggui Yuan
@@ -41,6 +28,6 @@ The code is developed and tested under the following environment
 To ensure the fairness of the results, we all use source code or public libraries for comparison experiments.  
 The results can be obtained from the following documents:  
  
- - GCNII：/Comparisons/GCNII-master/train.py  
- - APPNP：/Comparisons/APPNP/test_pytorch.py  
- - SimpGCN:SimpGCN.py（import DeepRobust） 
+ - GCNII: /Comparisons/GCNII-master/train.py  
+ - APPNP: /Comparisons/APPNP/test_pytorch.py  
+ - SimpGCN: /ComparisonsSimpGCN.py（import DeepRobust） 
