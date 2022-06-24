@@ -1,0 +1,24 @@
+{
+  "labels_num": 2,
+  "num_cluster": 2,
+  "n_hidden": [256, 32],
+  "reg": "L2",
+  "pre_trained_model_path": "./pretrain_model/",
+  "model_path": "./model/",
+  "log_path": "./Log/",
+  "batch_size": 200,
+  "learning_rate": 1.0e-3,
+  "network_type": "dense",
+  "activate_type": "relu",
+  "regularized_constant1": 0.01,
+
+  "regularized_constant2": 1,
+
+  "epsilon": 0.0,
+  "adj_threshold": 0.08,
+  "gcn_learning_rate": 0.01,
+  "gcn_hidden": [[256, 32, 16, 16], [32, 16, 16], [32, 16, 16]],
+  "weight_decay": 5e-5,
+  "dropout": 0,
+  "early_stopping": 100
+}

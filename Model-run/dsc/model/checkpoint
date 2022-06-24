@@ -1,0 +1,2 @@
+model_checkpoint_path: "hcmdd_latent_256_16__iteration_5000.ckpt"
+all_model_checkpoint_paths: "hcmdd_latent_256_16__iteration_5000.ckpt"
